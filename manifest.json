@@ -1,13 +1,6 @@
 {
   "short_name": "VideoLoop",
   "name": "Full Screen Video Loop",
-  "icons": [
-    {
-      "src": "icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    }
-  ],
   "start_url": "./index.html",
   "background_color": "#000000",
   "theme_color": "#000000",
