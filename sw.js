@@ -4,8 +4,7 @@ const ASSETS_TO_CACHE = [
   './index.html',
   './video.mp4',
   './manifest.json',
-  './icon-192.png',
-  './icon-512.png'
+  './icon-192.png'
 ];
 
 // インストール時にリソースをキャッシュ
